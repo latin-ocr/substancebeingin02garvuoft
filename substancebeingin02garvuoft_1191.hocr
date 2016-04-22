@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./substancebeingin02garvuoft/substancebeingin02garvuoft_1191.png"; bbox 0 0 2149 3064; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1042 686 2108 986">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1042 686 2108 986">
+     <span class='ocr_line' id='line_1_1' title="bbox 1042 686 2108 986; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1042 686 2108 986; x_wconf 95' lang='lat' dir='ltr'>     </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1454 731 2040 933">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1454 731 2040 933">
+     <span class='ocr_line' id='line_1_2' title="bbox 1496 731 2040 801; baseline -0.013 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1496 736 1750 801; x_wconf 77' lang='grc' dir='ltr'>υκινειιειπ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1767 735 1822 797; x_wconf 73' lang='lat' dir='ltr'>uf</span> <span class='ocrx_word' id='word_1_4' title='bbox 1837 731 2040 797; x_wconf 71' lang='lat' dir='ltr'>manum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1454 826 1863 933; baseline -0.015 -41"><span class='ocrx_word' id='word_1_5' title='bbox 1454 906 1455 916; x_wconf 13' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1562 893 1593 933; x_wconf 10' lang='grc' dir='ltr'>,Χ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1681 826 1863 889; x_wconf 71' lang='lat' dir='ltr'>unam</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
